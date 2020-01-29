@@ -8,7 +8,7 @@ Original package https://github.com/google/diff-match-patch
 
 ## Installation
 
-    npm install diff-match-patch
+    npm install diff-match-patch-with-word
 
 ## API
 
