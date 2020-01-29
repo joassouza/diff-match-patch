@@ -1,6 +1,6 @@
 {
   "name": "diff-match-patch-with-word",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This package adds the diff per word using the https://github.com/google/diff-match-patch as base",
   "keywords": [
     "diff",
